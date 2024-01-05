@@ -1,3 +1,10 @@
+Realizei esse desafio do picpay para aperfeiçoar minha habilidades com java, utilizando spring e JPA. Realizando todos os requisitos previsto no desafio.
+
+- Java versão 17.
+- Database: H2.
+
+Segue as instruções do desafio:
+
 # Desafio Back-end PicPay
 
 Primeiramente, obrigado pelo seu interesse em trabalhar na melhor plataforma de pagamentos do mundo!
